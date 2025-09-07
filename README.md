@@ -50,6 +50,21 @@ A **decentralized application (dApp)** that:
 
 ---
 
+## **B2C (Users)**  
+  - Free credit score generation for unbanked individuals  
+  - Premium dashboards & analytics for freelancers, gig workers, and students  
+  - Verified certificates to share with lenders, employers, and platforms  
+
+- **B2B (Institutions & Platforms)**  
+  - Subscription APIs for banks, microfinance firms, and fintech apps to access alternative credit scoring  
+  - Integration with **DeFi lending platforms** for decentralized collateral-free lending  
+  - Partnerships with gig platforms (Upwork, Fiverr, Swiggy, Uber) to credit workers’ digital footprint  
+
+- **Revenue Streams**  
+  - API subscriptions for businesses  
+  - Premium analytics dashboards for users  
+  - Transaction fees for minting & verification services  
+
 Demo Video
 https://github.com/user-attachments/assets/9a168d47-be04-4b31-9cb1-df0bf6d5f567
 
