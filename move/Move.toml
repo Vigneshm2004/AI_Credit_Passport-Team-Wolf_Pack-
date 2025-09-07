@@ -1,0 +1,16 @@
+[package]
+name = "CreditPassport"
+version = "1.0.0"
+authors = []
+
+[addresses]
+CreditPassport = "0x17a77167895975a78bb32978b0c6e5cbbba5b521d14cfb8242dd6bd172f6ec13"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
